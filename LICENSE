@@ -1,0 +1,100 @@
+Licencia Apache
+Versión 2.0, Enero 2004
+
+http://www.apache.org/licenses/
+
+TERMINOS Y CONDICIONES DE LICENCIA PARA USO, REPRODUCCION Y DISTRIBUCION
+
+1. Definiciones.
+
+"Concesión" se refiere a la concesión de derechos, directa o indirectamente, y la propiedad de la implementación, a los destinatarios, ya sea expresada o implícita, y no excluye otros derechos derivados de esta Licencia.
+
+"Trabajo" se refiere a la obra protegida por derechos de autor que es objeto de la concesión según esta Licencia.
+
+"Reconocimiento" significa atribuir en la forma indicada por el Licenciante, siempre que este tipo de reconocimiento sea generalmente reconocido y aplicado para licencias de trabajo creativo en general.
+
+"El Licenciante" se refiere a cualquier persona o entidad que ejerce derechos sobre la Concesión de esta Licencia.
+
+"Usted" y "su" se refieren a la persona que ejerce derechos bajo esta Licencia.
+
+"Licencia" se refiere a los términos y condiciones de uso, reproducción y distribución establecidos en este documento para el Trabajo y expresados en adelante, incluyendo sin limitación la divulgación de los derechos de autor y la licencia asociada.
+
+"Implementación" se refiere a los derechos concedidos bajo esta Licencia en forma de derechos de autor y/o derechos relacionados.
+
+"Trabajo protegido por derechos de autor" se refiere al copyright del trabajo expresado en adelante, incluyendo cualquier adaptación, alteración o traducción de trabajo que requiera autorización previa para la protección de derechos de autor, tales trabajos presentados y protegidos por los derechos de autor según lo requerido por la ley.
+
+"Derivado" se refiere a un trabajo basado en el Trabajo protegido por derechos de autor o incluido en el Trabajo según se establece en el artículo 1.2 del Copyright Act.
+
+"Jurisdicción" se refiere al área geográfica, donde los derechos de autor del Trabajo se consideran válidos y efectivos.
+
+2. Concesión de licencia.
+
+El Licenciante concede a usted una licencia mundial, no exclusiva, sin cargo y libre de regalías para:
+
+a) Utilizar, reproducir, modificar, adaptar, publicar, traducir, distribuir y mostrar el Trabajo, por cualquier medio o método, ya sea ahora conocido o desarrollado posteriormente, y
+
+b) Sujeto a las limitaciones establecidas en la Sección 3 abajo, derechos no exclusivos para reproducir, modificar, distribuir, y ejecutar el Trabajo derivado de la implementación bajo los derechos de autor y derechos relacionados de acuerdo a:
+
+i. Uso personal, sin importar si es o no para su uso comercial.
+
+ii. Desarrollo, distribución y uso interno dentro de su organización.
+
+iii. Distribución externa o uso comercial en proyectos de código abierto o propietarios.
+
+La concesión de licencia concedida en este documento está condicionada a que usted cumpla con los términos y condiciones de esta Licencia.
+
+3. Limitaciones y excepciones.
+
+a) Al atribuir a la Licencia, usted puede no hacer uso de los nombres de los Licenciantes, ni de ninguna modificación de los mismos, que puedan confundirse o sugerir el patrocinio o la aprobación por parte del Licenciante o que puedan confundirse con el trabajo derivado del Licenciante.
+
+b) No deberá distribuir, distribuir o sublicenciar la implementación del Trabajo, ni cualquier trabajo derivado, ni ningún trabajo protegido por derechos de autor, excepto como expresamente permitido bajo esta Licencia. Para evitar dudas, y sin limitación, no puede distribuir los trabajos derivados en un formato que sea, o que permita a terceros, extraer el archivo de datos o la interfaz de usuario del Trabajo, a menos que se requiera expresamente para la ejecución del Trabajo en sí.
+
+c) Usted acepta y garantiza que:
+
+i. Usted no aplicará la Ley de Secretos Comerciales en relación con el Trabajo, los Derechos de Autor, los Derechos de Autor, o cualquier otro derecho relacionado con la propiedad intelectual contenidos en el Trabajo o en cualquier trabajo derivado, y
+
+ii. Usted cumplirá con todas las leyes aplicables en relación con el uso del Trabajo o cualquier trabajo derivado.
+
+4. Derechos de autor.
+
+La licencia otorgada en la Sección 3 anterior es una licencia que cubre los derechos de autor y derechos relacionados. Sin perjuicio de los derechos de autor en el Trabajo, incluyendo pero no limitado a derechos morales, se conservan todos los derechos de propiedad intelectual en el Trabajo.
+
+5. Garantía de los licenciantes.
+
+A menos que se requiera por la ley aplicable o se acuerde por escrito, los licenciantes proporcionan el Trabajo (y cada uno de ellos proporciona cualquier implementación individual del Trabajo) bajo la Licencia "tal cual" sin garantías de ningún tipo, ya sea expresas o implícitas, incluyendo, sin limitación, garantías de comerciabilidad, aptitud para un propósito particular, no infracción o inexistencia de defectos de título. Usted asume la responsabilidad total por la selección del Trabajo y para los resultados obtenidos de su uso.
+
+6. Responsabilidad.
+
+A menos que se requiera por la ley aplicable o acordado por escrito, cualquier licenciante no será responsable ante usted por daños, incluyendo cualquier tipo de daños especiales, incidentales, indirectos o consecuentes que surjan de la utilización o la imposibilidad de utilizar el trabajo (incluyendo pero no limitado a la pérdida de datos, pérdida de oportunidades, pérdida de beneficios, costos de adquisición de bienes o servicios de sustitución, interrupción de los negocios, o cualquier otro daño directo o indirecto), sin importar la forma de la acción legal, si surge de contrato, agravio (incluyendo negligencia), responsabilidad estricta o de otra manera, con independencia de que el licenciante haya sido advertido de la posibilidad de tales daños.
+
+7. Término.
+
+Las disposiciones de la presente Licencia continuarán siendo efectivas hasta que sea terminada por usted o por un licenciante.
+
+8. Términos generales.
+
+a) La invalidación de cualquier disposición de esta Licencia no invalidará las demás disposiciones.
+
+b) Si alguna disposición de esta Licencia se considera inválida o inaplicable en cualquier jurisdicción, esta invalidez o inaplicabilidad no afectará la validez o aplicabilidad de las disposiciones restantes de esta Licencia, que seguirán en pleno vigor y efecto.
+
+c) No se considerará que ninguna renuncia de un término o condición de esta Licencia constituya una renuncia adicional de dicho término o condición o de cualquier otro término o condición.
+
+Nada en esta Licencia se interpretará como la creación de una relación de empleo, sociedad conjunta, o agencia entre usted y los licenciantes. Ningún licenciante será responsable ante usted en cualquier forma por cualquier acto o omisión bajo esta Licencia.
+
+9. Aviso de derechos de autor.
+
+Por cada uso o distribución del Trabajo o cualquier trabajo derivado, usted debe proporcionar a los destinatarios de los trabajos derivados o usuarios del Trabajo la siguiente notificación de derechos de autor:
+
+"Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License."
